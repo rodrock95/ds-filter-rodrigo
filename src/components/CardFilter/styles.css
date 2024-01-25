@@ -1,0 +1,17 @@
+.card-filter{
+    background-color: var(--dsf-color-bg-tertiary);
+    border-radius: 5px;
+    padding: 20px;
+    min-height: 200px;
+}
+
+.card-filter input{
+    height: 40px;
+    width: 200px;
+    padding: 10px;
+    color: var(--dsf-color-font-quaternary);
+    border: 1px solid var(--dsf-color-bg-secondary);
+    border-radius: 5px;
+    margin-bottom: 20px;
+    font-size: 16px;
+}

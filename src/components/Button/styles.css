@@ -1,0 +1,14 @@
+.button{
+    background-color: var(--dsf-color-bg-primary);
+    border-radius: 5px;
+    color: var(--dsf-color-font-primary);
+    padding: 0 20px;
+    height: 40px;
+    width: 200px;
+    font-size: 16px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+}

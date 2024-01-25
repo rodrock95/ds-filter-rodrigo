@@ -1,6 +1,8 @@
+import DSFilter from "./routes/DSFilter"
+
 function App() {
   return (
-   <h1>Ola mundo</h1>
+    <DSFilter/>
   )
 }
 

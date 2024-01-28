@@ -1,15 +1,12 @@
-import CardFilter from "../../components/CardFilter";
-import CardListing from "../../components/CardListing";
 import Header from "../../components/Header";
+import ListingBody from "../../components/ListingBody";
 
 export default function DSFilter() {
     return (
         <>
         <Header/>
 
-        <CardFilter/>
-
-        <CardListing/>
+        <ListingBody/>
         
         </>
     )

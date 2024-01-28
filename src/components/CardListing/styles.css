@@ -1,16 +1,11 @@
-.card-listing{
-    background-color: var(--dsf-color-bg-tertiary);
-    border-radius: 5px;
-    padding: 20px;
-    min-height: 200px;
-}
-
 .dsf-product{
     border-radius: 5px;
     border: 1px solid var(--dsf-color-font-secondary);
     width: 920px;
     height: 53px;
     padding: 10px;
+    background-color: var(--dsf-color-bg-tertiary);
+    margin-top: 10px;
 }
 
 .dsf-product p{

@@ -2,6 +2,9 @@
 
 O projeto DSFilter foi desenvolvido exclusivamente por mim durante o bootcamp ReactJS da escola DevSuperior. Neste projeto a ideia era implementar uma base de dados de produtos, bem como a função que filtra os produtos por preço.
 
+Design Figma:
+https://www.figma.com/file/s21JDtjv3cRyUfetFYAzIJ/DSFilter
+
 ## Caso de uso: listar produtos
 1. [OUT] O sistema informa nome e preço de todos produtos, ordenados por preço.
 2. [IN] O usuário informa, opcionalmente, preço mínimo e preço máximo dos produtos.

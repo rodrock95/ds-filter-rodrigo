@@ -36,3 +36,7 @@ e máximo sempre que o formulário for submetido.
 
 4) Context API utilizada para manter o estado global do número de produtos mostrados na tela. Sempre que
 for feita uma nova filtragem e o número de produtos listados mudar, o número é atualizado no cabeçalho.
+
+O projeto está implantado no Netlify no seguinte endereço:
+
+https://filterbyprice-rodrigo.netlify.app/
